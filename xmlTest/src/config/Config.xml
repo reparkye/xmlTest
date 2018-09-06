@@ -2,6 +2,6 @@
 <beans>
 	<bean id = "UserController">
 		<name>UserController</name>
-		<class>java.controller.UserController</class>
+		<class>pars.controller.UserController</class>
 	</bean>
 </beans>
